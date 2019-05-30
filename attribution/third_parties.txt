@@ -1,0 +1,31 @@
+Icons
+
+	Konpa
+
+		HTML5 - Konpa - http://konpa.github.io/devicon/
+
+	The Noun Project
+		
+		Cursor - Zaff Studio - https://thenounproject.com/icon/1283618/
+		Download - Muammar Khalid - https://thenounproject.com/icon/932450
+		Fast Forward - Bhuvan - https://thenounproject.com/icon/1376632/
+		Html - Drishya - https://thenounproject.com/icon/962484/
+		Message In A Bottle - Andre Luiz Gollo - https://thenounproject.com/icon/332128/
+		Mountains - Ian Ransley - https://thenounproject.com/icon/1371070/
+		Paper Plane - David - https://thenounproject.com/icon/411579/	
+		
+	Top Vectors
+
+		Adobe Creative Suite - interactiveblend.com - http://www.topvectors.com/vector/adobe-creative-suite-vector-icons/
+		
+JavaScript Libraries
+
+	GitHub
+			
+			JavaScript Cookie v2.2.0 - Klaus Hartl & Fagner Brack - https://github.com/js-cookie/js-cookie
+			User Agent Parser - Faisal Salman - https://github.com/faisalman/ua-parser-js
+			
+			
+	Lalit.org
+	
+			JavaScript/CSS Font Detect - Lalit Patel - http://www.lalit.org/lab/javascript-css-font-detect/
